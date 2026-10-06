@@ -5,7 +5,17 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/orianaportal707)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@orianaportal24)
 
-Soy futura Ing en Sistemas de la Facultad UTN FRC 
+
+Soy estudiante de **Ingeniería en Sistemas de Información en la UTN FRC**, actualmente a mitad de la carrera
+
+💡 Me gusta **crear, innovar y jugar con mi imaginación**, buscando transformar ideas en proyectos que tengan un propósito.
+
+🚀 Me considero una persona **activa, curiosa y con iniciativa**, con capacidad para **liderar, trabajar en equipo y llevar ideas a la práctica**.
+
+💻 Actualmente estoy explorando y fortaleciendo mis conocimientos en **desarrollo de software, Java, backend, bases de datos y tecnologías web**, mientras sigo descubriendo qué áreas de Sistemas me apasionan más.
+
+✨ Siempre estoy buscando aprender algo nuevo, asumir desafíos y convertir cada proyecto en una oportunidad para crecer.
+
 
 ## My Skills Include
 
